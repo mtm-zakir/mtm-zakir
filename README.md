@@ -1,4 +1,4 @@
-![PRO1 (1)](https://github.com/mtm-zakir/mtm-zakir/assets/90142607/122b0857-f7cd-4e6d-bfde-6a82dc0d7d90)
+![PRO1 (1)](https://github.com/mtmzakir/mtmzakir/assets/90142607/122b0857-f7cd-4e6d-bfde-6a82dc0d7d90)
 <div align="center">
   <a href="https://www.linkedin.com/in/mtmzakir/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="27"/>
