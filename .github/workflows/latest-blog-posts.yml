@@ -21,4 +21,3 @@ jobs:
           message: "Updated with the latest blog posts"
           add: "README.md"
           commit: true
-          token: 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
