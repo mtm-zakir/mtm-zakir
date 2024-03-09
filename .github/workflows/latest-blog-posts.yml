@@ -12,15 +12,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v2
         with:
           feed_list: "https://code-brains.blogspot.com/feeds/posts/default?alt=rss"
       - name: Update README
-        run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git add README.md
-          git commit -m "Updated with the latest blog posts"
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: "Updated with the latest blog posts"
+          add: "README.md"
+          commit: true
+          token: ${{ secrets.GITHUB_TOKEN }}
