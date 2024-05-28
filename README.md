@@ -151,9 +151,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <!-- YOUTUBE-VIDEO-LIST:START -->
 - [Install Intellij IDEA  Ultimate Edition | With Lifetime Activation | Unlock The Features](https://www.youtube.com/watch?v=N_T4MF03kH4)
 - [Thompukandam Resort | Nintavur | The Vlog](https://www.youtube.com/watch?v=lqG3EzW0J44)
-- [Supercharge  Your Torrent Downloads with Seedr.cc | My Secret Download Weapon](https://www.youtube.com/watch?v=rTHFyE3fsXg)
-- [Node JS Installation with Expo CLI | Tamil](https://www.youtube.com/watch?v=DEX6aOEPA6o)
-- [COVID-19 | Important Daily  Tips To Prevent The Spread Of Corona Virus](https://www.youtube.com/watch?v=PR7d5b0AcSc)
+- [Supercharge Your Torrent Downloads with Seedr.cc | DeCoders](https://www.youtube.com/watch?v=rTHFyE3fsXg)
+- [Node JS Installation with Expo CLI in Tamil | DeCoders](https://www.youtube.com/watch?v=DEX6aOEPA6o)
+- [Daily Tips To Prevent The Spread Of Corona Virus | COVID-19 | DeCoders](https://www.youtube.com/watch?v=PR7d5b0AcSc)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 <div align="center">
