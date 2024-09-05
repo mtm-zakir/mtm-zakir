@@ -167,15 +167,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - [Supercharge Your Torrent Downloads with Seedr.cc | DeCoders](https://www.youtube.com/watch?v=rTHFyE3fsXg)
 - [Node JS Installation with Expo CLI in Tamil | DeCoders](https://www.youtube.com/watch?v=DEX6aOEPA6o)
 <!-- YOUTUBE-VIDEO-LIST:END -->
-
+---
 <div align="center">
 <h3 >Thank U 🥰 for Profile View++ </h3>
   <img src="https://profile-counter.glitch.me/mtm-zakir/count.svg?"  />
 </div>
 
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mtm-zakir&icon=6&color=6" />
-  </a>
-</div>
