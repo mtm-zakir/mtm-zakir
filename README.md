@@ -114,32 +114,16 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 
 ## Statistics
-
-
-
-<div align="center">
-  <table>
+<div align="center" style="padding: 0px; border: 0px;">
+  <table style="border-collapse: collapse; width: 100%;">
     <tr>
-      <td>
+      <td style="padding: 0px; border: 0px;">
         <a href="https://github.com/mtm-zakir/github-readme-streak-stats">
           <img title="🔥 Excellent Streak" alt="Zakir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mtm-zakir&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117" />
         </a>
       </td>
-      <td>
+      <td style="padding: 0px; border: 0px;">
         <img src="https://github-contributor-stats.vercel.app/api?username=mtm-zakir&limit=5&theme=chartreuse-dark&bg_color=0D1117&color=71E204&line=0299E0&point=FFFFFF&hide_border=true&combine_all_yearly_contributions=true" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&bg_color=0D1117&hide_border=true&username=mtm-zakir" height="185" alt="stats graph" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&username=mtm-zakir" height="185" alt="languages graph" />
       </td>
     </tr>
   </table>
@@ -148,6 +132,21 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <div align="center">
 <a href="https://github.com/mtmz-akir/github-readme-activity-graph"><img alt="Zakir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mtm-zakir&bg_color=0D1117&color=71E204&line=0299E0&point=FFFFFF&hide_border=true" /></a>
 </div>
+
+<div align="center" style="padding: 0px; border: 0px;">
+  <table style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td style="padding: 0px; border: 0px;">
+        <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&bg_color=0D1117&hide_border=true&username=mtm-zakir" height="185" alt="stats graph" />
+      </td>
+      <td style="padding: 0px; border: 0px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&username=mtm-zakir" height="185" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 
 
