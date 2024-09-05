@@ -21,13 +21,13 @@
 ![Git Greetings (2)](https://user-images.githubusercontent.com/90142607/190711489-96cb72ae-cf1b-4339-912f-9f251847f440.gif)
 
 ## About Me
-<p align="justify" > I'm <b>Zakir</b> from <em>Sri Lanka</em>. I'm a 2nd year student pursuing <em>Bachelor's of Software Engineer in The Open University of Sri Lanka.</em> 
+<p align="justify" > I'm <b>Zakir</b> from <em>Sri Lanka</em>. I'm a 3rd year student pursuing <em>Bachelor's of Software Engineer in The Open University of Sri Lanka.</em> 
 I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. Apart from that also love to guide mentor newbies. </p>
 
 ## Personal Stuffs
-- 👨‍💻 I'm Currently working on **[BSE 2nd Year](https://github.com/stars/mtm-zakir/lists/2-bse-2nd-year)** <img align="right" height="130" src="https://user-images.githubusercontent.com/90142607/190706608-d9a333b2-10c6-4069-a839-f477c61190d2.png"/>
-- ⚡ I'm Currently learning **Mobile App Development, Test Automation Learning**
-- 🎖️ Track my Future Career Bridge Profile **[Click Here](https://app.futurecareersbridge.net/public-profile/19748)**
+- 👨‍💻 I'm Currently working on **[BSE 3rd Year](https://github.com/stars/mtm-zakir/lists/bse-program)** <img align="right" height="130" src="https://user-images.githubusercontent.com/90142607/190706608-d9a333b2-10c6-4069-a839-f477c61190d2.png"/>
+- ⚡ I'm Currently learning **Laravel Framework, Flutter & Go Languages**
+- 🎖️ Track my FCB Profile **[Click Here](https://app.futurecareersbridge.net/public-profile/19748)**
 - 📝 I regularly write articles on **[Code Brains](https://code-brains.blogspot.com)**
 - 📧 How to reach me **mtm.zakir@gmail.com** 
   
@@ -57,8 +57,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="gradle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -94,13 +92,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="40" alt="sourcetree logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
 </div>
@@ -119,9 +111,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" alt="safari logo"  />
 </div>
 
 ## Stats 
