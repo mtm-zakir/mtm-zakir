@@ -146,25 +146,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
   </table>
 </div>
 
-## Statistics
-<div align="center" style="padding: 0px;">
-  <div style="display: flex; justify-content: center; gap: 0px;">
-    <a href="https://github.com/mtm-zakir/github-readme-streak-stats">
-      <img title="🔥 Excellent Streak" alt="Zakir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mtm-zakir&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117" />
-    </a>
-   <img src="https://github-contributor-stats.vercel.app/api?username=mtm-zakir&limit=5&theme=chartreuse-dark&bg_color=0D1117&color=71E204&line=0299E0&point=FFFFFF&hide_border=true&combine_all_yearly_contributions=true" />
-  </div>
-</div>
-
-## GitHub Stats
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/mtm-zakir">
-    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&bg_color=0D1117&hide_border=true&username=mtm-zakir" height="185" alt="stats graph" />
-  </a>
-  <a href="https://github.com/mtm-zakir">
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtm-zakir&layout=compact&hide_border=true&theme=chartreuse-dark" />
-  </a>
-</div>
 
 
 
@@ -198,4 +179,3 @@ I'm a passionate learner who's always willing to learn and work across technolog
     <img src="https://visitcount.itsvg.in/api?id=mtm-zakir&icon=6&color=6" />
   </a>
 </div>
-
