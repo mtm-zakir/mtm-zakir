@@ -32,7 +32,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 📧 How to reach me **mtm.zakir@gmail.com**
 
 ## Languages and Tools
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
