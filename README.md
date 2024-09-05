@@ -149,10 +149,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
   </table>
 </div>
 
-
-
-
-
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Supercharge Your Downloads with Seedr.cc](https://www.codebrains.tech/2023/09/supercharge-your-downloads-with-seedrcc.html)
@@ -170,9 +166,12 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - [Supercharge Your Torrent Downloads with Seedr.cc | DeCoders](https://www.youtube.com/watch?v=rTHFyE3fsXg)
 - [Node JS Installation with Expo CLI in Tamil | DeCoders](https://www.youtube.com/watch?v=DEX6aOEPA6o)
 <!-- YOUTUBE-VIDEO-LIST:END -->
+
+
 ---
 <div align="center">
 <h3 >Thank U 🥰 for Profile View++ </h3>
   <img src="https://profile-counter.glitch.me/mtm-zakir/count.svg?"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/mtm-zakir/mtm-zakir/output/snake.svg" alt="Snake animation" />
