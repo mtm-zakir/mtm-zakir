@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://code-brains.blogspot.com/feed/"
+          feed_list: "https://code-brains.blogspot.com/feeds/posts/default"
