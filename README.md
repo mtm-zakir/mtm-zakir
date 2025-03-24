@@ -24,7 +24,7 @@
 ![Git Greetings (2)](https://user-images.githubusercontent.com/90142607/190711489-96cb72ae-cf1b-4339-912f-9f251847f440.gif)
 
 ## About Me
-<p align="justify" > I'm <b>Zakir</b> from <em>Sri Lanka</em>. I'm a 3rd year student pursuing <em>Bachelor's of Software Engineer in The Open University of Sri Lanka.</em>
+<p align="justify" > I'm <b>Zakir</b> from <em>Sri Lanka</em>. I'm a final year student pursuing <em>Bachelor's of Software Engineer in The Open University of Sri Lanka.</em>
 I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. Apart from that also love to guide mentor newbies. </p>
 
 ## Personal Stuffs
