@@ -28,7 +28,7 @@
 I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. Apart from that also love to guide mentor newbies. </p>
 
 ## Personal Stuffs
-- 👨‍💻 I'm Currently working on **[BSE 3rd Year](https://github.com/stars/mtm-zakir/lists/bse-program)** <img align="right" height="130" src="https://user-images.githubusercontent.com/90142607/190706608-d9a333b2-10c6-4069-a839-f477c61190d2.png"/>
+- 👨‍💻 I'm Currently working on **[BSE 4th Year](https://github.com/stars/mtm-zakir/lists/bse-program)** <img align="right" height="130" src="https://user-images.githubusercontent.com/90142607/190706608-d9a333b2-10c6-4069-a839-f477c61190d2.png"/>
 - ⚡ I'm Currently learning **Laravel Framework, Flutter & Go Languages**
 - 🎖️ Track my FCB Profile **[Click Here](https://app.futurecareersbridge.net/public-profile/19748)**
 - 📝 I regularly write articles on **[Code Brains](https://code-brains.blogspot.com)**
