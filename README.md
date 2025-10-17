@@ -160,8 +160,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ## Latest Youtube Videos
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Fix XAMPP MySQL Not Starting Error | Easy Batch File Solution | ngineerX](https://www.youtube.com/watch?v=V-h2zuPVrU8)
 - [#TOPIC# | DeCoders](https://www.youtube.com/watch?v=-xXE8P7Q2og)
-- [Thompukandam Resort at Nintavur | ngineerX](https://www.youtube.com/watch?v=lqG3EzW0J44)
 - [Supercharge Your Torrent Downloads with Seedr.cc | ngineerX](https://www.youtube.com/watch?v=rTHFyE3fsXg)
 - [Node JS Installation with Expo CLI in Tamil | ngineerX](https://www.youtube.com/watch?v=DEX6aOEPA6o)
 - [Daily Tips To Prevent The Spread Of Corona Virus | COVID-19 | ngineerX](https://www.youtube.com/watch?v=PR7d5b0AcSc)
