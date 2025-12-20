@@ -2,7 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'   # Runs once per day
   workflow_dispatch:
 
 permissions:
@@ -10,7 +10,6 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -23,3 +22,4 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST"
           max_post_count: 5
           date_format: "dd mmm yyyy"
+          skip_commit: true
